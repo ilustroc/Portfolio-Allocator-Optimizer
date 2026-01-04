@@ -1,0 +1,9 @@
+# Datos confidenciales
+*.xlsx
+*.csv
+*.xls
+
+# Archivos de sistema y cache
+__pycache__/
+*.pyc
+.DS_Store
